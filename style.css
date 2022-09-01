@@ -18,7 +18,7 @@ body{
     background: rgba(245, 245, 245, 0.671);
     box-shadow: 5px 5px 5px rgb(39, 36, 41);
     min-height: 50vh;
-    min-width: 40vw;
+    min-width: 10vw;
     padding: 30px;
     border-radius: 7px;
     color: black;
